@@ -5,3 +5,9 @@ Este site foi desenvolvido com base em um trabalho anterior devido à falta de t
 Como parte dessa tarefa,  projetei esse site para auxiliar os alunos a utilizar o chat de maneira inteligente. Para facilitar o acesso, incluí um QR code no slide onde todos tiveram a oportunidade de acessar e explorar o conteúdo.
 
 link para conferirem: https://gabrielvesal.github.io/Hackathon/
+
+Techs usadas:
+<div>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg"svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">                                                              
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">  
