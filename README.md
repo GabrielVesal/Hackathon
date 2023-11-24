@@ -6,6 +6,10 @@ Como parte dessa tarefa,  projetei esse site para auxiliar os alunos a utilizar 
 
 link para conferirem: https://gabrielvesal.github.io/Hackathon/
 
+<p align="center">
+  <img alt="Print" src="https://github.com/GabrielVesal/MiniCursoReactNative/blob/e0e197a88628f741d3d87b7f65b3da150bc85606/Captura%20de%20tela%202023-11-24%20102419.png">
+</p> 
+
 Techs usadas:
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg"svg">
