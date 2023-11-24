@@ -7,7 +7,7 @@ Como parte dessa tarefa,  projetei esse site para auxiliar os alunos a utilizar 
 link para conferirem: https://gabrielvesal.github.io/Hackathon/
 
 <p align="center">
-  <img alt="Print" src="https://github.com/GabrielVesal/MiniCursoReactNative/blob/e0e197a88628f741d3d87b7f65b3da150bc85606/Captura%20de%20tela%202023-11-24%20102419.png">
+  <img alt="Print" src="https://github.com/GabrielVesal/Hackathon/blob/2550ce9b4afd234d38dc4c895db8952220898fc0/9798e745-573f-436d-87ab-b59c0921ad9e.jpg">
 </p> 
 
 Techs usadas:
